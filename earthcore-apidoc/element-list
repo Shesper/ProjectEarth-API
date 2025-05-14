@@ -210,6 +210,7 @@ com.lostgames.earth.main.bungee
 com.lostgames.earth.mythic
 com.lostgames.earth.mythic.conditions
 com.lostgames.earth.mythic.mechanics
+com.lostgames.earth.mythic.targeters
 com.lostgames.earth.net
 com.lostgames.earth.net.bukkit
 com.lostgames.earth.net.bungee
@@ -225,11 +226,12 @@ com.lostgames.earth.net.server.impl
 com.lostgames.earth.net.type
 com.lostgames.earth.net.utils
 com.lostgames.earth.nms
-com.lostgames.earth.nms.handle.v1_20_R3
-com.lostgames.earth.nms.handle.v1_20_R3.skindata
+com.lostgames.earth.nms.handle.v1_21_R3
+com.lostgames.earth.nms.handle.v1_21_R3.skindata
 com.lostgames.earth.nms.impl
 com.lostgames.earth.nms.scoreboard
 com.lostgames.earth.nms.scoreboard.adventure
+com.lostgames.earth.payment
 com.lostgames.earth.permissions.bukkit
 com.lostgames.earth.permissions.bungee
 com.lostgames.earth.player.actionbar
@@ -281,6 +283,8 @@ com.lostgames.earth.spells.wrapper
 com.lostgames.earth.thirdparty
 com.lostgames.earth.thirdparty.niceauth
 com.lostgames.earth.validation
+com.lostgames.earth.violations
+com.lostgames.earth.violations.impl
 com.lostgames.earth.vr
 com.lostgames.earth.vr.player
 com.lostgames.earth.vr.player.impl
@@ -300,12 +304,14 @@ com.lostgames.utils.component
 com.lostgames.utils.data
 com.lostgames.utils.data.bungee
 com.lostgames.utils.inventory
+com.lostgames.utils.io
 com.lostgames.utils.item
 com.lostgames.utils.math
 com.lostgames.utils.messages
 com.lostgames.utils.object
 com.lostgames.utils.string
 com.lostgames.utils.string.bungee
+com.lostgames.utils.threads
 org.apache.commons.dbcp2
 org.apache.commons.dbcp2.cpdsadapter
 org.apache.commons.dbcp2.datasources

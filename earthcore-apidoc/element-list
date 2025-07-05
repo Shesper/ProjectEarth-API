@@ -67,6 +67,8 @@ com.lostgames.earth.contents.events.missions.types.grownsupport
 com.lostgames.earth.contents.events.types
 com.lostgames.earth.contents.events.ui
 com.lostgames.earth.contents.events.ui.panels
+com.lostgames.earth.contents.guild
+com.lostgames.earth.contents.guild.handlers
 com.lostgames.earth.contents.handle
 com.lostgames.earth.contents.itemcollection
 com.lostgames.earth.contents.itemcollection.handle
@@ -79,6 +81,13 @@ com.lostgames.earth.contents.mail.impl
 com.lostgames.earth.contents.midath
 com.lostgames.earth.contents.midath.handle
 com.lostgames.earth.contents.midath.impl
+com.lostgames.earth.contents.minigames
+com.lostgames.earth.contents.minigames.handle
+com.lostgames.earth.contents.minigames.hud
+com.lostgames.earth.contents.minigames.hud.handlers
+com.lostgames.earth.contents.minigames.manager
+com.lostgames.earth.contents.minigames.rooms
+com.lostgames.earth.contents.minigames.types
 com.lostgames.earth.contents.party
 com.lostgames.earth.contents.party.bukkit
 com.lostgames.earth.contents.party.bungee
@@ -119,6 +128,7 @@ com.lostgames.earth.event.impl
 com.lostgames.earth.game
 com.lostgames.earth.game.entity
 com.lostgames.earth.game.entity.attribute
+com.lostgames.earth.game.entity.data
 com.lostgames.earth.game.entity.mob
 com.lostgames.earth.game.entity.mob.manager
 com.lostgames.earth.game.entity.mob.tables
